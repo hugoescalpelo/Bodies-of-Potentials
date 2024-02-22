@@ -3,3 +3,7 @@ This repository contains details of the maintenance of Bodies of Potentials, an 
 
 You can see it working on instagram https://www.instagram.com/p/C0fhJ_dCAHn/
 
+![](https://github.com/hugoescalpelo/Bodies-of-Potentials/blob/main/Images/Artwork/Piece%201.png?raw=true)
+
+![](https://github.com/hugoescalpelo/Bodies-of-Potentials/blob/main/Images/Artwork/Piece%202.png?raw=true)
+
