@@ -12,4 +12,16 @@ Diagnostics were made, solutions were stated. A part list of refactions was crea
 
 Repository was created. Readme was structured. Register pictures were added. 
 
----
+## 2024-02-28
+
+STEP files were provided
+
+## 2024-03-17
+
+Maintenance material arrived
+
+## 2024-03-21
+
+Detailed initial diagnosis performed.
+
+Video diagnosis: https://youtu.be/R9Tb3EtviOM
