@@ -25,3 +25,18 @@ Maintenance material arrived
 Detailed initial diagnosis performed.
 
 Video diagnosis: https://youtu.be/R9Tb3EtviOM
+
+## 2024-03-25
+
+Spare membranes were picked up at the Nasal Gallery
+
+## 2024-03-27
+
+Code was solicited
+
+## 2024-03-28
+
+Motor supports were redesigned, a mechanical test was performed succesfully.
+https://youtu.be/EXxLqPLDNS4v
+
+
