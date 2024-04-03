@@ -39,4 +39,6 @@ Code was solicited
 Motor supports were redesigned, a mechanical test was performed succesfully.
 https://youtu.be/EXxLqPLDNS4v
 
+## 2024-04-02
 
+Activation test completed. Both pieces were lubricated and activated to test its mechanical behaviour. It was confirmed the need of springs to retract the Z axis parts. Also, missalignments were found. These miss alignments can be rectified including the springs. A redesign of some gears could help in the alignment of the turning parts. Driver sustitution is confirmed, DC motor sustitusion is on the table. Re print of spheres is needed. DC source measurements are scheduled, substitution is on the table.
