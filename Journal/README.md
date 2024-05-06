@@ -64,3 +64,6 @@ Code was analyzed.
 
 A set of suitable springs were found ad "Anexo Mercado Hidalgo", tests are pending.
 
+## 2024-05-06
+
+A breakdown manual for Huella Full was created. 
