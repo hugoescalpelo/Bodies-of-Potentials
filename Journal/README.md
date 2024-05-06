@@ -42,3 +42,25 @@ https://youtu.be/EXxLqPLDNS4v
 ## 2024-04-02
 
 Activation test completed. Both pieces were lubricated and activated to test its mechanical behaviour. It was confirmed the need of springs to retract the Z axis parts. Also, missalignments were found. These miss alignments can be rectified including the springs. A redesign of some gears could help in the alignment of the turning parts. Driver sustitution is confirmed, DC motor sustitusion is on the table. Re print of spheres is needed. DC source measurements are scheduled, substitution is on the table.
+
+## 2024-04-05
+
+Springs were ordered online.
+A set of motor holders were 3D printed.
+
+## 2024-04-08
+
+Springs arrived. Compresion test were made, but the K of the spring is too high, new springs are needed.
+
+## 2024-04-12
+
+A search in industrial store section of downtown was performed, no suitable springs were found.
+
+## 2024-04-16
+
+Code was analyzed.
+
+## 2024-05-02
+
+A set of suitable springs were found ad "Anexo Mercado Hidalgo", tests are pending.
+
