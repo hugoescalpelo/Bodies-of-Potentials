@@ -17,7 +17,10 @@ Este documento contiene detalles del mantenimiento de Huella Full
     - Desatornillar todas las esferas acopladas a ejes
     - Desatornillar la estructura metálica
 
-3. En este punto es posible desatornillar cualquier pieza de la base de acrilico
+3. En este punto es posible desatornillar cualquier pieza de la base de acrilico y sustitulirla.
+    - Algunos tornillos requieren que se extraigan primero otro motor para que las llaves quepan o haya espacio para girarla.
+    - Se recomienda sacar todos los servomotores siempre en una posición con el brazo de forma paralela a la base de acrilico
+    
 
 
 ## Tasks
