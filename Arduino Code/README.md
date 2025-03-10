@@ -1,0 +1,73 @@
+## Arduino Code
+
+This Arduino code has a history. Check "Hugo Code" Folder, legacy is original code, just for reference.
+
+- I received de original Code
+- I map the circuit based on this code
+- I test this code alive
+- I found the mechanical problems of this code
+- Too much friction
+- Re print some of the 3d Printed pieces and find new friction points
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Spring needed
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted succesfully
+- Installation problems
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Lubricaion needed, silicon WD40 won't make it
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- 360 degree motor founded
+- All of the motors are 360 degree :()
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted succesfully. Original Pieces need a 2mm bore up.
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Why Im like this? I will doom humanity
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Reprinted unsuccesfully
+- Just watched the repo
+- Just watched the repo
+- Just watched the repo
+- Just watched the repo
+- Just watched the repo
+- Just watched the repo
+- Just watched the repo
+- Oh my god, why this printer does not work
+- I Fixed it. Now all prints are beautifull
+- Ok, now I can test rigidity and center of servos
+- Damn, I need to rewire everything
+- Wow, colors! 
+- Will this epoxy ever cuajar?
+- Earthquake!
+- I' so sorry Luis
+- Luis, if you ever read this and work with me again, let me let you know I´m not usually like this
+- Well, the first test in situ is available
+

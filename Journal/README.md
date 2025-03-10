@@ -67,3 +67,16 @@ A set of suitable springs were found ad "Anexo Mercado Hidalgo", tests are pendi
 ## 2024-05-06
 
 A breakdown manual for Huella Full was created. 
+
+## Pending
+
+
+
+
+## 2024-09-03
+
+Installed the soft springs for non membrane dependant retraction
+
+## 2024-09-05
+
+Just changed the circuit to an ESP32
